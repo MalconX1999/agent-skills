@@ -6,6 +6,7 @@ Barrido de chats locales de Cursor (proyectos Render AI, TDE Renders, HMY, TimeP
 | --- | --- | --- |
 | `verified-pr-loop` | publicada | Cerrar un cambio verificado, abrir o actualizar la PR y resolver CodeRabbit sin hacer el merge. |
 | `repo-validation` | publicada | Aplicar en local y en la PR las comprobaciones que el repositorio ya documenta, sin inventar comandos. |
+| `render-result-qa` | publicada | Aprobar o rechazar un render obtenido según si conserva la base y solo aplica el cambio del rol. |
 | `branch-board` | propuesta | Pedidos repetidos de top de ramas, diferencia local/remoto y prefijos personales (`Malcon_*`, `Mario_*`) en HMY, Render AI y TimePulse. |
 | `handoff-prompt` | propuesta | "Dame el prompt y no lo ejecutes en esta sesión" para que otro chat implemente con el contexto ya cerrado. |
 | `multi-root-boundary` | propuesta | Un workspace con dos repos y uno de ellos solo como contexto. Aparece más de una vez. |

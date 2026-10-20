@@ -26,6 +26,7 @@ Cursor además puede guardar skills en el almacén de la cuenta. Esa copia no si
 
 - `verified-pr-loop`: commit, PR lista y CodeRabbit después de verificar el cambio. El merge lo hace quien lo pidió.
 - `repo-validation`: tests, lint, formato y demás comprobaciones que el propio repositorio define, en local y en la PR.
+- `render-result-qa`: revisa un render obtenido contra su base y sus referencias antes de publicarlo.
 - [CATALOG.md](CATALOG.md): skills que el trabajo reciente justifica y todavía no están escritas.
 
 ## Qué no entra aquí
